@@ -22,12 +22,11 @@ public class ClassA {
 		System.out.println("Test A3 is completed");
 		System.out.println("Test A4 is completed");
 		System.out.println("Test A5 is completed");
-<<<<<<< HEAD
+		System.out.println("Test A6 is completed");
 		System.out.println("Test A6 is completed");
 		System.out.println("Test A7 is completed");
-=======
 		System.out.println("Test A 6 is completed");
->>>>>>> 5a6dcf3f142ffad72fadac407c5f207339a1e8bc
+
 	}
 	
 }
