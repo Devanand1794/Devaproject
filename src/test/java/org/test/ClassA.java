@@ -25,10 +25,15 @@ public class ClassA {
 		System.out.println("Test A6 is completed");
 		System.out.println("Test A7 is completed");
 		System.out.println("Test A8 is completed");
-		System.out.println("Test A8 is completed");
-		System.out.println("Test A9 is completed");
-		System.out.println("Test A10 is completed");
-		System.out.println("Test A11 is completed");
+		System.out.println("Test  is completed");
+		System.out.println("Test is completed");
+		System.out.println("Test  is completed");
+		System.out.println("Test  is completed");
+		System.out.println("Test A6 is completed");
+		System.out.println("Test A6 is completed");
+		System.out.println("Test A7 is completed");
+		System.out.println("Test A 6 is completed");
+
 
 	}
 	
