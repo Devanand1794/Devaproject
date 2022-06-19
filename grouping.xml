@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+  <groups>
+  
+  <define name="group1">
+  <include name="regression"></include> 
+  </define>
+  
+  <define name="group2">
+  <include name="retest"></include>
+  </define>
+  
+  <define name="group3">
+  <include name="smoke"></include>
+  </define>
+  
+  <define name="group4">
+  <include name="sanitary"></include>
+  </define>
+  
+  <run>
+  <include name="group2"></include>
+  <exclude name="group4"></exclude>
+ 
+  </run>
+  
+  
+  
+
+  
+  </groups>
+    <classes>
+      <class name="org.para.grouping"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
