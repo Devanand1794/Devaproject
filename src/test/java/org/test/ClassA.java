@@ -20,6 +20,10 @@ public class ClassA {
 	private void testA3() {
 		Assert.assertTrue(true);
 		System.out.println("Test A3 is completed");
+		System.out.println("Test A4 is completed");
+		System.out.println("Test A5 is completed");
+		System.out.println("Test A6 is completed");
+		System.out.println("Test A7 is completed");
 	}
 	
 }
