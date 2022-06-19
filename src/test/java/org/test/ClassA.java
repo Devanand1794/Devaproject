@@ -23,9 +23,17 @@ public class ClassA {
 		System.out.println("Test A4 is completed");
 		System.out.println("Test A5 is completed");
 		System.out.println("Test A6 is completed");
+		System.out.println("Test A7 is completed");
+		System.out.println("Test A8 is completed");
+		System.out.println("Test  is completed");
+		System.out.println("Test is completed");
+		System.out.println("Test  is completed");
+		System.out.println("Test  is completed");
+		System.out.println("Test A6 is completed");
 		System.out.println("Test A6 is completed");
 		System.out.println("Test A7 is completed");
 		System.out.println("Test A 6 is completed");
+
 
 	}
 	

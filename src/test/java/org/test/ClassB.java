@@ -15,5 +15,11 @@ public class ClassB {
 	@Test()
 	private void testB3() {
 		System.out.println("Test B2 is completed");
+		System.out.println("Test B3 is completed");
+		System.out.println("Test B4 is completed");
+		System.out.println("Test B5 is completed");
+		System.out.println("Test B6 is completed");
+		System.out.println("Test B7 is completed");
+		System.out.println("Test B8 is completed");
 	}
 }
